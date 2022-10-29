@@ -1,4 +1,8 @@
 div {
     background-color: red;
-    font-size: 40px;
+    font-size: 32px;
+    color: white;
+    text-align: center;
+    font-weight: 800;
+    font-family: sans-serif;
 }
